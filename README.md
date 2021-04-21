@@ -1,2 +1,2 @@
 process.github.io
-Click here see the output[click here](https://github.com/Prathap-13/process.github.io/blob/main/index.html)
+Click here see the output[click here](process.github.io/blob/main/index.html)
